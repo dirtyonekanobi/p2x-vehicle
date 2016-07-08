@@ -1,0 +1,16 @@
+{
+  "name": "v2x-car",
+  "version": "1.0.0",
+  "description": "\"Vehicle to SCMS\"",
+  "main": "phonehome.js",
+  "dependencies": {
+    "request": "^2.72.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Daryn Johnson for Prymus Group\"",
+  "license": "ISC"
+}
+
